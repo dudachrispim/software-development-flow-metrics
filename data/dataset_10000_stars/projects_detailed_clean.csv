@@ -1,0 +1,789 @@
+full_name,project_id,project_number,project_title,closed,public,items_total
+ita-social-projects/OoS-Backend,PVT_kwDOANAxGM4Am76r,50,OoS,False,True,228
+eric-volz/DefichainPython,PVT_kwHOBC0Svc4ATl-t,5,DefichainPython,False,True,25
+haroohie-club/SerialLoops,PVT_kwDOBfIXGM4AOPmb,1,Serial Loops,False,True,52
+UAlbanyArchives/mailbagit,PVT_kwDOAMQYDM4AmnrP,4,Mailbag tool development,False,True,144
+application-stacks/runtime-component-operator,PVT_kwDOA57yf84AKzXB,1,RCO Backlog,False,True,11
+sourceplusplus/sourceplusplus,PVT_kwDOAu2wvs4AEQkP,4,Source++ Roadmap,False,True,191
+datacoon/undatum,PVT_kwDOADGGjs4ACjNP,1,undatum backlog,False,True,19
+linkarkitektur/SpeckleLCA,PVT_kwDOA98LPc4A2zH0,8,SpeckLCA 2.x,False,True,71
+Legacy-Fabric/fabric,PVT_kwDOA71Jjc4AhZ0c,1,Legacy Fabric API,False,True,54
+AdelKS/ZeGrapher,PVT_kwHOAM-ZYc4AjJvs,1,ZeGrapher Planning,False,True,32
+gameknife/gkNextEngine,PVT_kwHOACCejc4AtOVo,2,gkNextRenderer,False,True,31
+gameknife/gkNextEngine,PVT_kwHOACCejc4AtOUB,1,MagicaLego,False,True,0
+InkCanvasForClass/community,PVT_kwDODPaXvc4BE0g_,2,ICC CE 1.8,False,True,23
+InkCanvasForClass/community,PVT_kwDODPaXvc4A9kwJ,1,ICC CE 2.0,False,True,0
+Night-stars-1/Auto_Resonance,PVT_kwHOBeqa6M4AfwF8,3,@Night-stars-1's 黑月无人驾驶开发计划,False,True,7
+cashubtc/cashu-ts,PVT_kwDOBs9DwM4BMZoJ,19,cashu-ts,False,True,105
+tritonmc/Triton,PVT_kwDOA9LoYs4AEcNp,2,Triton,False,True,376
+status-im/status-web,PVT_kwDOALOQjs4ASnTp,94,Web & User Interfaces,False,True,736
+microsoft/PowerApps-TestEngine,PVT_kwDOAF3p4s4AiegR,1243,Power Apps Test Engine,False,True,187
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOg,8,Combat Replay,False,True,74
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOf,7,GW2EIBuilders,False,True,109
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOZ,2,GW2EIDiscord,False,True,5
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOd,6,GW2EIDPSReport,False,True,9
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOb,4,GW2EIEvtcParser,False,True,142
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOa,3,GW2EIGW2API,False,True,8
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOc,5,GW2EIParser,False,True,31
+baaron4/GW2-Elite-Insights-Parser,PVT_kwHOAdQb784AiKOS,1,GW2EIWingman,False,True,4
+LaughingZhu/DevNow,PVT_kwHOATM0G84Anhbz,2,DevNow,False,True,3
+ecamp/ecamp3,PVT_kwDOAAbcLc4APZiP,6,Development Kanban,False,True,105
+ecamp/ecamp3,PVT_kwDOAAbcLc4AGQRc,2,Hackaton 5,True,True,6
+ecamp/ecamp3,PVT_kwDOAAbcLc4Amz5j,7,Release,False,True,7
+ecamp/ecamp3,PVT_kwDOAAbcLc4AGQSi,3,v3 Epics,False,True,27
+OpenGamingCollective/ScopeBuddy,PVT_kwDODvAwks4BOVgj,16,ScopeBuddy Development,False,True,9
+PyMoDAQ/PyMoDAQ,PVT_kwDOAjdDG84AG0J5,1,PyMoDAQ Roadmap,False,True,24
+ZcashFoundation/frost,PVT_kwDOAY9hw84AUfJd,14,FROST,True,True,330
+SCRT-HQ/PSGSuite,PVT_kwDOAel53s4Ay670,1,PSGSuite - Release Planning,False,True,84
+talsec/Free-RASP-Flutter,PVT_kwDOBR9hpM4AjbHP,2,freeRASP,False,True,11
+al2na/methylKit,PVT_kwHOAAm9Ec4AmijM,1,Increase Test Code Coverage,False,True,0
+al2na/methylKit,PVT_kwHOAAm9Ec4Amijd,3,Issue Tracker,False,True,17
+al2na/methylKit,PVT_kwHOAAm9Ec4AmijV,2,Reduce Code Duplication,False,True,0
+cerberauth/vulnapi,PVT_kwDOB5I3ls4AVsuc,2,VulnAPI,False,True,66
+Wanxp/obsidian-douban,PVT_kwHOAZmO6s4ACZe2,1,Obsidian Douban,False,True,14
+TheCoder4eu/BootsFaces-OSP,PVT_kwHOAFf6JM4Am4lm,1,BootsFaces 1.6.0,False,True,6
+foodcoops/foodsoft,PVT_kwDOAEUFH84AzDn8,5,Foodsoft 2025,False,True,14
+foodcoops/foodsoft,PVT_kwDOAEUFH84AM2Fw,1,Foodsoft roadmap,False,True,90
+knative/func,PVT_kwDOAh71Ac4AG4V1,49,Functions,False,True,124
+stefanhendriks/Dune-II---The-Maker,PVT_kwHOABRTYs4AiMQD,1,D2TM,False,True,504
+apache/incubator-graphar,PVT_kwDNuP_OAIfE5Q,359,Apache GraphAr (Incubating) backlog,False,True,22
+italia/bootstrap-italia,PVT_kwDOAOqloM4AMof6,17,Design system .italia 🇮‍🇹,False,True,859
+bids-standard/bids-specification,PVT_kwDOApDNXc4A7UD6,19,BEP Status Dashboard,False,True,48
+bids-standard/bids-specification,PVT_kwDOApDNXc4Ai-3d,15,Conversion to schema,False,True,33
+Moo-Ack-Productions/MCprep,PVT_kwDOCET9c84ASeoC,1,MCprep Dev Team,False,True,61
+kubernetes-sigs/cluster-api-provider-openstack,PVT_kwDOAiWMY84APvRg,38,CAPO Roadmap,False,True,822
+kitajs/kitajs,PVT_kwDOBpqPzs4ALfK6,1,Kita development,False,True,61
+microsoft/Power-CAT-Copilot-Studio-Kit,PVT_kwDOAF3p4s4AgsSF,1178,Copilot Studio Accelerator,False,True,326
+dxos/dxos,PVT_kwDOA2iKZc4AMmI-,19,2023-Q2-Milestones (Protocols),True,True,14
+dxos/dxos,PVT_kwDOA2iKZc4AUQoM,23,Product,False,True,230
+glojurelang/glojure,PVT_kwDOBxP-B84A_fKt,4,The Board,False,True,23
+GoogleCloudPlatform/professional-services-data-validator,PVT_kwDOACrkPc4ACIw7,15,Data Validation Tool Release Tracker,False,True,38
+e621ng/e621ng,PVT_kwDOB1rAy84ALBHx,2,Backlog,False,True,189
+e621ng/e621ng,PVT_kwDOB1rAy84ALBHX,1,Features and Bugs,False,True,128
+keymanapp/keyman,PVT_kwDOAL1A7s4AmbUB,1,Keyman,False,True,1129
+asacristani/fastapi-rocket-boilerplate,PVT_kwHOAIjoSs4AWpCC,1,fastapi-rocket-boilerplate,False,True,14
+JavatoDev-com/internet-banking-concept-microservices,PVT_kwDOBE7iGs4AhgrE,2,javatodev - internet banking demo project,False,True,25
+getsentry/sentry-dotnet,PVT_kwDOABVQ184AYbcz,181,GDX,False,True,1696
+getsentry/sentry-dotnet,PVT_kwDOABVQ184AOGW8,76,GitHub Issues with 👀,False,True,307
+iAmMccc/SmartCodable,PVT_kwHOAPqR1M4A4lno,1,SmartCodable错误跟踪器,False,True,0
+yunanwg/brilliant-CV,PVT_kwHOBJurl84APhIl,3,brilliant-CV,False,True,12
+JasonGrass/auto-extension-manager,PVT_kwHOAKQjgs4AT9dv,1,chrome-plugin-extension-manager-board,False,True,38
+briansunter/logseq-plugin-gpt3-openai,PVT_kwHOACr5Ic4ACb2_,1,Logseq OpenAI Plugin,False,True,38
+IntellectualSites/FastAsyncWorldEdit,PVT_kwDOALRgHM4AUQBa,4,FastAsyncWorldEdit v3 Roadmap,False,True,6
+dphfox/Fusion,PVT_kwHOALRJzs4AkL-L,2,Fusion - Road to 1.0,False,True,40
+dphfox/Fusion,PVT_kwHOALRJzs4AAoxe,1,Fusion 0.3,False,True,75
+D4rkS3c-Group/HiddenEyeReborn,PVT_kwDOCiYpxM4AiIml,1,Roadmap,False,True,3
+sujaykundu777/devlopr-jekyll,PVT_kwHOAKNRYM4AkYuU,11,Roadmap - Devlopr,False,True,12
+keyshade-xyz/keyshade,PVT_kwDOCTgX484AZ_Ud,1,keyshade-api,False,True,153
+Phalcode/gamevault-app,PVT_kwDOBpWPJs4ATIse,4,GameVault: Public Roadmap,False,True,69
+OpenListTeam/OpenList-Desktop,PVT_kwDODNyL5c4A9ETh,6,OpenList Desktop V1.0.0,False,True,1
+abahmed/kwatch,PVT_kwHOAPm4VM4AEoEH,3,kwatch,False,True,31
+microsoft/CameraTraps,PVT_kwDOAF3p4s4A7LHi,1833,Pytorch-Wildlife Task Board,False,True,21
+daijro/hrequests,PVT_kwHOBFRd1s4AVfJW,1,Hrequests: Todo,False,True,6
+guozhigq/flutter_v2ex,PVT_kwHOAYXKCc4AMunp,2,flutte_v2ex,False,True,19
+playcanvas/editor,PVT_kwDOAA-5s84BPWCa,25,PlayCanvas Editor Roadmap,False,True,524
+ajndkr/lanarky,PVT_kwHOAZlNp84AZbiA,6,Lanarky Roadmap,False,True,4
+plan-player-analytics/Plan,PVT_kwDOAub8Es4AAcYl,3,Backlog,False,True,401
+godot-gdunit-labs/gdUnit4,PVT_kwDODuX2984BLymE,3,GdUnit4,False,True,37
+haydenull/logseq-plugin-agenda,PVT_kwHOAQ4E9c4AVVDG,2,Agenda 3.0,False,True,18
+rapidsai/raft,PVT_kwDOAp2shc4AHHP9,55,Unstructured Data Processing,False,True,2495
+journiv/journiv-app,PVT_kwDODj_TkM4BLLXm,4,Roadmap,False,True,203
+open-telemetry/opentelemetry-go-instrumentation,PVT_kwDOAvross4AQSG_,50,Go Auto Instrumentation: Beta,True,True,57
+open-telemetry/opentelemetry-go-instrumentation,PVT_kwDOAvross4Ab2Tq,72,Go Auto Instrumentation: GA,False,True,23
+meshtastic/Meshtastic-Android,PVT_kwDOA6xaqs4AVD8E,16,Cross Platform Design Discussion,False,True,38
+gorilla/schema,PVT_kwDOAAd4Xs4ASPO6,4,Gorilla Web Toolkit,False,True,267
+Yu-Core/SwashbucklerDiary,PVT_kwHOBcClB84AgJj-,2,SwashbucklerDiary plan,False,True,11
+thorvg/thorvg,PVT_kwDOBQzTyc4AO771,1,ThorVG,False,True,622
+thorvg/thorvg,PVT_kwDOBQzTyc4BCMBV,4,ThorVG.Android,False,True,6
+thorvg/thorvg,PVT_kwDOBQzTyc4BCL_d,3,ThorVG.Flutter,False,True,6
+thorvg/thorvg,PVT_kwDOBQzTyc4BCMFt,6,ThorVG.Site,False,True,4
+thorvg/thorvg,PVT_kwDOBQzTyc4BCMC0,5,ThorVG.Swift,False,True,12
+thorvg/thorvg,PVT_kwDOBQzTyc4BHRyD,8,ThorVG.Unity,False,True,3
+thorvg/thorvg,PVT_kwDOBQzTyc4AiTGa,2,ThorVG.Web,False,True,39
+AzureAD/microsoft-authentication-library-for-dotnet,PVT_kwDOAC1DLM4AEI72,11,MSAL Customer Trust,False,True,52
+feenkcom/gtoolkit,PVT_kwDOAVGPfs4Am9Ug,2,GT,False,True,367
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AYdG4,7,Add API Reference to Sphinx Documentation,False,True,5
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AbQ5G,9,CMake Support,False,True,29
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AXNw8,3,Complete support for DynamicType and DynamicData,False,True,15
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AVDJD,2,New Config Interface,True,True,16
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AzFHD,12,OpenDDS 4.0,False,True,37
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AYPDg,4,Publish results of spikes,False,True,3
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AYvEM,8,RTPS 2.5,False,True,2
+OpenDDS/OpenDDS,PVT_kwDOAd_yH84AYPue,6,Supported Platforms,False,True,6
+kubernetes-sigs/secrets-store-csi-driver,PVT_kwDOAiWMY84ANvOS,31,Secrets Store CSI Driver Public Roadmap,False,True,1
+vitorpamplona/amethyst,PVT_kwHOAAgeP84AUqOE,2,Amethyst Roadmap,False,True,10
+triplea-game/triplea,PVT_kwDOAMs5184AD1Z0,2,2.7 Release,True,True,26
+triplea-game/triplea,PVT_kwDOAMs5184AjIeJ,9,Feature Requests,False,True,16
+triplea-game/triplea,PVT_kwDOAMs5184AFcNL,3,Problem Tracker,False,True,54
+semaphoreio/semaphore,PVT_kwDOC2Tq184AzDbr,1,Roadmap,False,True,537
+thelastoutpostworkshop/gpio_viewer,PVT_kwHOB5sWec4AaZvs,1,GPIOViewer's Features to be implemented,False,True,29
+pluralsh/plural,PVT_kwDOBOeR5c4AAo1z,3,Plural API Workstream,False,True,71
+scientistproject/Scientist.net,PVT_kwDOAs6Bsc4AW2B2,1,Scientist.net,False,True,12
+robocorp/rpaframework,PVT_kwDOAzxgPc4AnBIR,6,RPA Framework,False,True,73
+Scony/godot-gdscript-toolkit,PVT_kwHOABJsWc4ALscm,2,Roadmap,False,True,51
+stripe/stripe-android,PVT_kwDOAA0S7c4Am15Q,33,Tracking,False,True,34
+skaiworldwide-oss/agensgraph,PVT_kwDOALORJM4AzQ-l,7,AgensGraph 2.15,True,True,18
+ikun-svelte/ikun-ui,PVT_kwDOCGlVLs4AZvj7,3,@ikun-ui feat component list,False,True,26
+ikun-svelte/ikun-ui,PVT_kwDOCGlVLs4AVR_F,1,ikun-ui_v0.0.9,True,True,2
+ikun-svelte/ikun-ui,PVT_kwDOCGlVLs4AV92L,2,ikun-ui_v0.1.0,True,True,8
+ikun-svelte/ikun-ui,PVT_kwDOCGlVLs4AZ5Zq,4,ikun-ui_v0.1.5,True,True,5
+ikun-svelte/ikun-ui,PVT_kwDOCGlVLs4AaWIJ,5,ikun-ui_v0.2.0,True,True,4
+donetick/donetick,PVT_kwDOCk8Mrs4AmMwe,3,Donetick Backlog,False,True,17
+oracle/graaljs,PVT_kwDOAEOaAM4Ao2NA,18,GraalJS Roadmap,False,True,17
+fossasia/badgemagic-app,PVT_kwDOAGAP6c4ATvnX,2,Badge Magic V1.5,False,True,27
+WCY-dt/MrRSS,PVT_kwHOA08_Lc4BJCcF,2,MrRSS,False,True,419
+ossia/score,PVT_kwDOACx2Xc4AEdmT,16,Advanced video features,False,True,46
+ossia/score,PVT_kwDOACx2Xc4Ak0jz,43,Art-Net / DMX / Lighting fixtures,False,True,24
+ossia/score,PVT_kwDOACx2Xc4ANuBV,20,Audio,False,True,31
+ossia/score,PVT_kwDOACx2Xc4Ak0j1,44,"Automations, mappings...",False,True,29
+ossia/score,PVT_kwDOACx2Xc4Ak0jo,37,Build system,False,True,20
+ossia/score,PVT_kwDOACx2Xc4Ak0i0,25,C++ JIT,False,True,7
+ossia/score,PVT_kwDOACx2Xc4Ak0jE,29,Central view styling,False,True,3
+ossia/score,PVT_kwDOACx2Xc4Ak0jO,31,Console,False,True,0
+ossia/score,PVT_kwDOACx2Xc4Ak0jP,32,Controllers,False,True,5
+ossia/score,PVT_kwDOACx2Xc4Ak0k2,53,Curve editing,False,True,5
+ossia/score,PVT_kwDOACx2Xc4Ak0iw,23,Debugging,False,True,4
+ossia/score,PVT_kwDOACx2Xc4Ak0lF,58,Device Explorer,False,True,76
+ossia/score,PVT_kwDOACx2Xc4AsaVd,71,Embedded port,False,True,16
+ossia/score,PVT_kwDOACx2Xc4Ak0j9,47,Execution engine,False,True,26
+ossia/score,PVT_kwDOACx2Xc4Ak0ju,40,Expression editor,False,True,4
+ossia/score,PVT_kwDOACx2Xc4Ak0jX,36,General improvements & issues,False,True,19
+ossia/score,PVT_kwDOACx2Xc4Ak0lP,59,Inspectors,False,True,5
+ossia/score,PVT_kwDOACx2Xc4Ak0kp,50,Integrations,False,True,61
+ossia/score,PVT_kwDOACx2Xc4Ak0k4,54,JACK & linux integration,False,True,13
+ossia/score,PVT_kwDOACx2Xc4Ak0iv,22,Javascript,False,True,4
+ossia/score,PVT_kwDOACx2Xc4Ak0jS,34,Local tree,False,True,4
+ossia/score,PVT_kwDOACx2Xc4Ak0j3,45,MIDI,False,True,32
+ossia/score,PVT_kwDOACx2Xc4Ak0jx,42,Musicality,False,True,12
+ossia/score,PVT_kwDOACx2Xc4Ak0kq,51,Networked media,False,True,47
+ossia/score,PVT_kwDOACx2Xc4Ak0kx,52,"Nodal UX, dataflow",False,True,70
+ossia/score,PVT_kwDOACx2Xc4BR19g,84,ONNX & ML inference support (dupe),True,True,9
+ossia/score,PVT_kwDOACx2Xc4Ak0jU,35,Package manager,False,True,7
+ossia/score,PVT_kwDOACx2Xc4Ak0jH,30,Pattern sequencer,False,True,9
+ossia/score,PVT_kwDOACx2Xc4Ak0jw,41,Platform support,False,True,45
+ossia/score,PVT_kwDOACx2Xc4Ak0iy,24,Polyphony,False,True,3
+ossia/score,PVT_kwDOACx2Xc4Ak0jB,28,Preset system,False,True,11
+ossia/score,PVT_kwDOACx2Xc4AEdlH,9,Processes,False,True,21
+ossia/score,PVT_kwDOACx2Xc4AGeox,19,Protocols,False,True,58
+ossia/score,PVT_kwDOACx2Xc4Ak0js,39,Recording,False,True,12
+ossia/score,PVT_kwDOACx2Xc4Ak0jR,33,Remote API,False,True,3
+ossia/score,PVT_kwDOACx2Xc4Ak0it,21,Rendering and export,False,True,7
+ossia/score,PVT_kwDOACx2Xc4Ak0j7,46,Scripting,False,True,12
+ossia/score,PVT_kwDOACx2Xc4Ak0k8,56,SNI Specs,False,True,59
+ossia/score,PVT_kwDOACx2Xc4Ak0k5,55,Spline automation,False,True,8
+ossia/score,PVT_kwDOACx2Xc4Ak0k-,57,State inspector,False,True,13
+ossia/score,PVT_kwDOACx2Xc4Ak0km,48,Temporal model & UX,False,True,74
+ossia/score,PVT_kwDOACx2Xc4Ak0jq,38,Temporal model evolutions,False,True,13
+ossia/score,PVT_kwDOACx2Xc4AEdmQ,15,Tutorial videos,False,True,41
+ossia/score,PVT_kwDOACx2Xc4Ak0lQ,60,UI,False,True,111
+ossia/score,PVT_kwDOACx2Xc4Ak0jA,27,UI chrome & styling,False,True,5
+ossia/score,PVT_kwDOACx2Xc4Ak0i-,26,UI controls,False,True,27
+ossia/score,PVT_kwDOACx2Xc4Ak0kn,49,User library,False,True,11
+ossia/score,PVT_kwDOACx2Xc4AEdmW,17,Video,False,True,123
+rappasoft/laravel-livewire-tables,PVT_kwHOAFv1CM4AQBus,3,Livewire Tables Version 2,False,True,22
+rappasoft/laravel-livewire-tables,PVT_kwHOAFv1CM4AQBs3,2,Livewire Tables Version 3,False,True,150
+rappasoft/laravel-livewire-tables,PVT_kwHOAFv1CM4AXzpc,4,Livewire Tables Version 4,False,True,0
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4eS,5,Alpha Releases: It works for my friends,False,True,37
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4ej,6,Beta Releases: Make it a product,False,True,61
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AKEVA,3,GTD&Diary CrossPlatfrom App in TW,False,True,3
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4ACPjc,1,Help new user use TW,False,True,3
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4er,9,How to download? 如何下载？,False,True,2
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4eo,8,Make it a Knowledge Base,False,True,13
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4eQ,4,Prototype: Get it work for me,False,True,10
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4ev,10,Security,False,True,2
+tiddly-gittly/TidGi-Desktop,PVT_kwDOA_usjs4AM4em,7,Upstream Bug & Features,False,True,15
+anse-app/anse,PVT_kwDOB9xi6c4APczq,2,Anse Roadmap,False,True,46
+vizia/vizia,PVT_kwDOBfW9Os4ABJ8L,1,Release 0.2,True,True,25
+thomaspoignant/go-feature-flag,PVT_kwHOARFBX84AtvBK,5,GO Feature Flag Roadmap,False,True,23
+oss-review-toolkit/ort,PVT_kwDOAuBIHs1e-A,3,Roadmap,False,True,10
+OpenIPC/firmware,PVT_kwDOAr7-sc4ARDSd,5,firmware,False,True,11
+BlueprintFramework/framework,PVT_kwDOB1wfn84AYzLN,2,alpha-NLM,True,True,4
+BlueprintFramework/framework,PVT_kwDOB1wfn84AauVd,4,alpha-SLX,True,True,4
+BlueprintFramework/framework,PVT_kwDOB1wfn84AdHPH,5,Framework,False,True,6
+opentk/opentk,PVT_kwDOAFpAcM4ADpnf,1,PAL 2.0,False,True,9
+discord-net/Discord.Net,PVT_kwDOAs8AA84AiUuA,2,Discord.Net / Future 4.x,False,True,22
+cinnyapp/cinny,PVT_kwDOBWMu884ARzMZ,1,Public roadmap,False,True,95
+Revolutionary-Games/Thrive,PVT_kwDOACJTQc4AeaHD,6,Godot 4,False,True,310
+Revolutionary-Games/Thrive,PVT_kwDOACJTQc4AYSjL,5,Post-ECS Fixing,True,True,164
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cU,3,Broken Sensors,False,True,16
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cb,8,Clean up,False,True,8
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cc,9,GPIO handling,False,True,13
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cY,6,Improve MQTT,False,True,5
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cZ,7,Improve Stability,False,True,14
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cV,4,Improve Timing,False,True,15
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cS,2,Improve UX,False,True,12
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cR,1,Release Mega,False,True,10
+letscontrolit/ESPEasy,PVT_kwDOAWAGxs4Am9cW,5,WiFi stability and UX,False,True,9
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-g,12,Code and data diffing,False,True,11
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-j,13,Debugger,False,True,38
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-q,14,Heap parsing,False,True,18
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-t,16,Remove global state,False,True,3
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-V,10,RzIL,False,True,36
+rizinorg/rizin,PVT_kwDOBEwdA84Akl9v,5,RzShell improvements,False,True,41
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-F,8,Stable Projects,False,True,10
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-Z,11,Switch from command calls to the API,False,True,10
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-r,15,Tree Sitter,False,True,4
+rizinorg/rizin,PVT_kwDOBEwdA84Akl-H,9,User Experience,False,True,132
+lunarphp/lunar,PVT_kwDOBrOfN84BHNlH,9,Roadmap,False,True,132
+jellyfin/jellyfin-web,PVT_kwDOArlL784AfWI-,55,Jellyfin 10.10,True,True,234
+jellyfin/jellyfin-web,PVT_kwDOArlL784ARM3h,43,Jellyfin Web - Roadmap,False,True,58
+OpenXRay/xray-16,PVT_kwDOAIfAC84AYCAE,2,Roadmap,False,True,653
+2factorauth/twofactorauth,PVT_kwDOAOIWWs4AISXU,2,Frontend - Feature requests,False,True,20
+2factorauth/twofactorauth,PVT_kwDOAOIWWs4AJQin,6,Schema - Feature Requests,False,True,8
+Screenly/Anthias,PVT_kwDOAUAEtM4AiBZj,2,Anthias,False,True,443
+WGDashboard/WGDashboard,PVT_kwDODKM8cc4BHQfS,3,WGDashboard Project,False,True,60
+microsoft/WinUI-Gallery,PVT_kwDOAF3p4s4ADSEg,368,WinUI Gallery Backlog,False,True,41
+RhetTbull/osxphotos,PVT_kwHOAnnzPs4AU6m9,3,@RhetTbull's currently working on,False,True,3
+RhetTbull/osxphotos,PVT_kwHOAnnzPs4AAdtm,1,osxphotos export refactor,False,True,14
+grain-lang/grain,PVT_kwDOAgl1Lc4AAjwO,1,Grain v0.5.0,True,True,45
+grain-lang/grain,PVT_kwDOAgl1Lc4AIYsH,3,Grain v0.5.5,True,True,24
+grain-lang/grain,PVT_kwDOAgl1Lc4AIAjL,2,Grain v0.6.0,True,True,261
+wevm/viem,PVT_kwDOBojelM4AMcgh,3,viem,False,True,41
+dragoonDorise/EmuDeck,PVT_kwHOAGErMs4A1E8K,3,Issues,False,True,224
+apache/linkis,PVT_kwDNuP_OACggRg,195,2023 Linkis Roadmap,False,True,29
+raamcosta/compose-destinations,PVT_kwHOBMs61s4ABOvH,1,Compose Destinations,False,True,28
+vitobotta/hetzner-k3s,PVT_kwHOAARUo84AgARv,4,hetzner-k3s,True,True,94
+alvr-org/ALVR,PVT_kwDOBHhCgc4AipnH,4,Monado support,False,True,2
+alvr-org/ALVR,PVT_kwDOBHhCgc4AipbP,2,Roadmap,False,True,26
+alvr-org/ALVR,PVT_kwDOBHhCgc4Aipmo,3,Steamvr linux,False,True,2
+btcpayserver/btcpayserver,PVT_kwDOAdsM1s1mHg,16,BTCPay Server Roadmap 🛣️,False,True,56
+podman-desktop/podman-desktop,PVT_kwDOB71_hM4AxfY6,4,Podman Desktop Planning,False,True,1234
+Kyome22/RunCat365,PVT_kwHOAS-YIs4BMTDZ,5,RunCat365 Task,False,True,7
+openvinotoolkit/openvino,PVT_kwDOA04Bvs4AWR3k,3,Good first issues,False,True,154
+openvinotoolkit/openvino,PVT_kwDOA04Bvs4AXIOo,6,OpenVINO General Board,False,True,30
+openvinotoolkit/openvino,PVT_kwDOA04Bvs4AmJ0p,10,Openvino NPU issues,False,True,12
+evershopcommerce/evershop,PVT_kwDOBP4K0s4AI0Cv,3,EverShop Development Board,False,True,111
+hengyoush/kyanos,PVT_kwHOAfNWes4AtEju,4,v1.5.0,False,True,29
+hengyoush/kyanos,PVT_kwHOAfNWes4AvPrz,7,v1.6.0,False,True,1
+gluestack/gluestack-ui,PVT_kwDOBynaMM4AXW4m,15,gluestack support,True,True,104
+gluestack/gluestack-ui,PVT_kwDOBynaMM4AorKs,19,gluestack-ui project management.,False,True,205
+solana-foundation/anchor,PVT_kwDOA4Akt84BAllD,12,Anchor 0.32,False,True,8
+solana-foundation/anchor,PVT_kwDOA4Akt84A-ku5,9,Anchor 1.0,False,True,77
+solana-foundation/anchor,PVT_kwDOA4Akt84BIYmC,14,Anchor V2,False,True,25
+ckan/ckan,PVT_kwDOABjgds4AgpJE,7,"Performance, Developer & Maintainer Experience",False,True,51
+ckan/ckan,PVT_kwDOABjgds4ANcCX,3,Problem-Solution Board,False,True,27
+ckan/ckan,PVT_kwDOABjgds4Asl9N,9,🎤 Rockstar Tickets 🎸,False,True,30
+nginx/kubernetes-ingress,PVT_kwDOABWMj84AwExr,16,NGINX Ingress Controller,False,True,554
+portapack-mayhem/mayhem-firmware,PVT_kwDOCBxr2s4BP-GM,2,Praline support status,False,True,5
+spack/spack,PVT_kwDOAYWyWc4ADjhO,3,Compilers as dependencies,False,True,39
+spack/spack,PVT_kwDOAYWyWc4AYjcy,8,Developer improvements,False,True,23
+spack/spack,PVT_kwDOAYWyWc4BEiDN,14,Sandia-Spack-Work,False,True,18
+spack/spack,PVT_kwDOAYWyWc4AmANL,10,Spack on Windows,False,True,172
+spack/spack,PVT_kwDOAYWyWc4ADsK6,4,Spack v0.18.2 release,True,True,51
+spack/spack,PVT_kwDOAYWyWc4AQ3f2,6,Triaged bugs,False,True,361
+OWASP/Nettacker,PVT_kwDOAAJgp84AGaMd,8,Nettacker v0.5.0 ORION,False,True,23
+dotnet/Silk.NET,PVT_kwDOAIt-yc16sA,64,Silk.NET Development Tracker,False,True,1232
+harvester/harvester,PVT_kwDOBL-39c4Amka3,10,Community Issue Review,False,True,1263
+harvester/harvester,PVT_kwDOBL-39c4AlyGm,8,Feature Request Review,True,True,584
+harvester/harvester,PVT_kwDOBL-39c4AlFZP,7,Harvester Sprint,False,True,6309
+openfga/openfga,PVT_kwDOBizZlM4ABvs3,1,OpenFGA Roadmap,False,True,97
+Planshit/Tai,PVT_kwDOAuz0284ACmdU,1,[Tai] 1.0.0.4 todo list ,True,True,6
+Planshit/Tai,PVT_kwDOAuz0284ACoVT,2,[Tai] 1.1.0.0 todo list,True,True,4
+Planshit/Tai,PVT_kwDOAuz0284AMpVY,3,Tai 1.5.0.0 todo list,True,True,8
+Planshit/Tai,PVT_kwDOAuz0284AMzGS,5,Tai 1.5.0.1 todo list,True,True,8
+argilla-io/argilla,PVT_kwDOARj_k84AIQvz,10,🚲 Argilla Roadmap,False,True,27
+silverbulletmd/silverbullet,PVT_kwDOBnU1tc4AJhiG,2,Silver Bullet Roadmap,False,True,82
+apache/dubbo-go,PVT_kwDNuP_OADXwyQ,239,Dubbo Go Usability,True,True,4
+apache/dubbo-go,PVT_kwDNuP_OABcfeQ,129,Dubbo Mesh,False,True,16
+quantumlib/Cirq,PVT_kwDOAd1Krc4AOvUP,3,Cirq 2023 roadmap,True,True,9
+quantumlib/Cirq,PVT_kwDOAd1Krc4AsMcz,7,Cirq 2025 roadmap,False,True,167
+quantumlib/Cirq,PVT_kwDOAd1Krc4BD8iU,12,Follow-up tracker,False,True,3
+mathesar-foundation/mathesar,PVT_kwDOA9GiLs4A5rTZ,2,🗺️ Mathesar Roadmap,False,True,32
+diggerhq/digger,PVT_kwDOBEB6vs4BCxoH,2,OpenTaco roadmap,False,True,27
+Yuukiy/JavSP,PVT_kwHOBJVeec4AWDni,1,JavSP,False,True,8
+searchkit/searchkit,PVT_kwDOAPYt5s4AJaNt,1,Open Roadmap,False,True,8
+praydog/REFramework,PVT_kwHOACxm_c4Am3bH,4,C#,False,True,9
+rajnandan1/kener,PVT_kwHOAPeQb84BNSN9,4,Kener v4 Launch,False,True,55
+emqx/MQTTX,PVT_kwDOAYDaT84AQqpq,4,MQTTX,False,True,679
+micrometer-metrics/micrometer,PVT_kwDOAcupxc4Am98l,4,Aspect epic,False,True,6
+ExpressLRS/ExpressLRS,PVT_kwDOBJtRuM4AAp35,2,Pending Config Struct Changes,True,True,11
+ExpressLRS/ExpressLRS,PVT_kwDOBJtRuM4AApUW,1,v3.0.0 Release Plan,True,True,16
+cryptpad/cryptpad,PVT_kwDOBJYobM4AWtwF,7,5.6.0,True,True,41
+cryptpad/cryptpad,PVT_kwDOBJYobM4ARe1p,5,Accessibility Issues,False,True,133
+cryptpad/cryptpad,PVT_kwDOBJYobM4ASaJB,6,Mobile Issues,False,True,56
+enso-org/enso,PVT_kwDOAQm_B84ALrCP,10,Epics Board,False,True,5
+enso-org/enso,PVT_kwDOAQm_B84ALmuy,8,Issues Board,False,True,712
+growthbook/growthbook,PVT_kwDOA-X-ss4AGhma,3,"Bug Day - Sep 28, 2022",True,True,21
+open-mmlab/mmagic,PVT_kwDOAJxUSc4ABJDy,9,MMEditing Public Roadmap,False,True,26
+EleutherAI/gpt-neox,PVT_kwDOBBu0tc4AGTLI,14,Improved T5,True,True,50
+NVIDIA/garak,PVT_kwDOABpemM4BGiJ9,130,garak / Context Aware Scanning,False,True,11
+microsoft/microsoft-ui-xaml,PVT_kwDOAF3p4s4AmrbY,1328,API Specs Review,False,True,5
+microsoft/microsoft-ui-xaml,PVT_kwDOAF3p4s4A8x3X,1868,WinUI,False,True,224
+rescript-lang/rescript,PVT_kwDOAb5ubc4Am_eE,2,ReScript development,False,True,35
+python-visualization/folium,PVT_kwDOAJgeWs4A0efq,2,Folium scope,False,True,3
+conda/conda,PVT_kwDOAGGLo84A3fTn,22,conda Roadmap and Sprint Planning,False,True,259
+conda/conda,PVT_kwDOAGGLo84A06FO,18,Releases,False,True,11
+conda/conda,PVT_kwDOAGGLo84AIbCW,14,📚 Epics,False,True,74
+conda/conda,PVT_kwDOAGGLo84AMYX0,16,🔎 Review,False,True,296
+conda/conda,PVT_kwDOAGGLo80bXw,2,🧭 Planning,True,True,1335
+arkime/arkime,PVT_kwDOBD19zM4AJBX-,1,DO IT!,False,True,177
+foostan/crkbd,PVT_kwHOAAs7v84ABRUQ,1,Pastry Keyboard Roadmap,False,True,68
+rustls/rustls,PVT_kwDOA-G8Fc4AI4tY,1,v0.20.8 release,True,True,4
+cotes2020/jekyll-theme-chirpy,PVT_kwHOAK2DTM4AdVQX,2,Chirpy PMS,False,True,1
+prometheus-operator/prometheus-operator,PVT_kwDOA_l-lc4A5iZ_,2,[GSoC 2025] Status subresource for configuration objects,False,True,15
+moby/buildkit,PVT_kwDOAZ_xPc4A0TPE,29,Issue Triage,True,True,216
+frappe/frappe,PVT_kwDOAAzFbs4AaZXo,70,Desk's Mobile View,False,True,12
+frappe/frappe,PVT_kwDOAAzFbs4Aewz5,81,Framework v16,False,True,23
+frappe/frappe,PVT_kwDOAAzFbs4A-M6o,128,Frappe Framework Roadmap (Version 16),False,True,31
+frappe/frappe,PVT_kwDOAAzFbs4A_m2t,131,Frappe Framework Roadmap (Version 17),False,True,3
+frappe/frappe,PVT_kwDOAAzFbs4BKyiv,148,v16 UI Polish Sprint - Feb 2026,False,True,85
+frappe/frappe,PVT_kwDOAAzFbs4AqSQp,94,V16 UI refresh,True,True,3
+stakater/Reloader,PVT_kwDOAPMVWM4AulxK,5,Reloader Enterprise,False,True,14
+baptisteArno/typebot.io,PVT_kwHOAPRh2c4AHdL1,4,Typebot,False,True,892
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCtD,6,Better Debugging Capabilities,False,True,3
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCrW,3,Devtools and Google Lighthouse Integration,False,True,6
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCv3,8,Fiddle Platform,False,True,2
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCsj,5,Improved Frontend Framework Support,False,True,2
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJelU,10,Mobile Test Automation Experience,False,True,7
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCsS,4,Network Recording,False,True,1
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AJCt7,7,VS Code Extension,False,True,1
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AIR4e,1,WebdriverIO Component Testing,False,True,14
+webdriverio/webdriverio,PVT_kwDOAGNfWc4AI9Qe,2,WebdriverIO Core Initiatives,False,True,6
+spinnaker/spinnaker,PVT_kwDOAHR9Bs4AmYZV,21,Build and Release Update,True,True,29
+LMMS/lmms,PVT_kwDOAGEYF84AEfTL,5,Add LV2 support,False,True,35
+LMMS/lmms,PVT_kwDOAGEYF84AEfTK,4,Make LMMS realtime safe,False,True,3
+LMMS/lmms,PVT_kwDOAGEYF84AEfTE,1,Move 3rd Party code to submodules for LMMS 1.3.0,False,True,11
+LMMS/lmms,PVT_kwDOAGEYF84AEfTG,2,Project reformatting,False,True,8
+LMMS/lmms,PVT_kwDOAGEYF84AEfTI,3,Reorg,False,True,8
+sktime/sktime,PVT_kwDOA1yJX84AiMQ-,2,2024 May-Sep workstreams,False,True,151
+sktime/sktime,PVT_kwDOA1yJX84AnBSJ,6,Bugfixing,False,True,750
+sktime/sktime,PVT_kwDOA1yJX84AvLEP,11,Dec 2024 - Mar 2025 mentee projects,False,True,93
+sktime/sktime,PVT_kwDOA1yJX84AnBSF,4,Graphpipeline (sktime-pywatts),False,True,13
+sktime/sktime,PVT_kwDOA1yJX84AnBSG,5,reduction forecasters issues,False,True,40
+sktime/sktime,PVT_kwDOA1yJX84AnBSB,3,Workstream: Deep Learning based Forecasters,False,True,13
+polarsource/polar,PVT_kwDOBkfenM4BGug5,9,Backlog,False,True,744
+nvim-neorg/neorg,PVT_kwDOBWJX3s4AMzoN,2,Neorg,False,True,7
+PaddlePaddle/Paddle-Lite,PVT_kwDOAWcZzs4Am9fQ,16,framework-weeding,False,True,11
+netblue30/firejail,PVT_kwHOANE6ds4AnSrA,5,Documentation,False,True,10
+netblue30/firejail,PVT_kwHOANE6ds4AnSrC,6,Papercuts,False,True,13
+netblue30/firejail,PVT_kwHOANE6ds4AnSrD,7,Profile Requests,False,True,165
+netblue30/firejail,PVT_kwHOANE6ds4AnSpG,2,Release 0.9.68,False,True,97
+netblue30/firejail,PVT_kwHOANE6ds4AnSpP,3,Release 0.9.70,False,True,37
+netblue30/firejail,PVT_kwHOANE6ds4AnSpU,4,Release 0.9.72,False,True,77
+netblue30/firejail,PVT_kwHOANE6ds4Am78O,1,Release 0.9.74,False,True,365
+netblue30/firejail,PVT_kwHOANE6ds4A2OeB,9,Release 0.9.76,False,True,74
+netblue30/firejail,PVT_kwHOANE6ds4BL4OK,19,Release 0.9.80,False,True,45
+plantuml-stdlib/C4-PlantUML,PVT_kwDOBHDIyc4ADqfs,3,All Projects,False,True,456
+endless-sky/endless-sky,PVT_kwDOAK63ls4AJTjV,7,Coalition & Heliarch,False,True,29
+endless-sky/endless-sky,PVT_kwDOAK63ls4AIn2f,5,Ember Waste,False,True,92
+endless-sky/endless-sky,PVT_kwDOAK63ls4AOpEG,11,Gegno+,False,True,45
+endless-sky/endless-sky,PVT_kwDOAK63ls4AImPO,2,Hai Reveal,False,True,101
+endless-sky/endless-sky,PVT_kwDOAK63ls4AKgw7,10,Pirates,False,True,28
+endless-sky/endless-sky,PVT_kwDOAK63ls4AIm_g,3,Unfettered Campaign,False,True,47
+PixiEditor/PixiEditor,PVT_kwDOBAmkIM4AofrX,2,2.0 Release,True,True,74
+PixiEditor/PixiEditor,PVT_kwDOBAmkIM4A_Ty6,7,PixiEditor 2.1,False,True,21
+RayVentura/ShortGPT,PVT_kwHOBz1gM84AS-kP,1,ShortGPT Roadmap,False,True,6
+alibaba/flutter_boost,PVT_kwDOAB3v4M4Ah_Uj,16,Flutter Boost 3.0,False,True,18
+PixarAnimationStudios/OpenUSD,PVT_kwDOABmGKM4AR6ap,1,OpenUSD Proposals Status,False,True,82
+PixarAnimationStudios/OpenUSD,PVT_kwDOABmGKM4Ai2ab,4,USD Schema User Docs Tracker,False,True,100
+PixarAnimationStudios/OpenUSD,PVT_kwDOABmGKM4AiJrP,3,UsdUtilsComplianceChecker migration,False,True,17
+wiremock/wiremock,PVT_kwDOAUYPC84AOrHd,5,3️⃣ WireMock Java 3.0,False,True,44
+wiremock/wiremock,PVT_kwDOAUYPC84AOT3p,3,🌐 WireMock Community,False,True,31
+wiremock/wiremock,PVT_kwDOAUYPC84AOWsF,4,🛣️ WireMock Public Roadmap,False,True,64
+sparckles/Robyn,PVT_kwDOB1jFo84AjsCS,3,@sansyrox's untitled project,False,True,0
+Qiskit/qiskit,PVT_kwDOAdRmG84Am9_W,37,Circuits,True,True,13
+Qiskit/qiskit,PVT_kwDOAdRmG84BE8cM,59,Qiskit 2.3,False,True,183
+Qiskit/qiskit,PVT_kwDOAdRmG84BI937,63,Qiskit 2.4,False,True,199
+Qiskit/qiskit,PVT_kwDOAdRmG84BQxxI,64,Qiskit 2.5,False,True,54
+Qiskit/qiskit,PVT_kwDOAdRmG84BRopV,69,Qiskit 2.6,False,True,0
+Qiskit/qiskit,PVT_kwDOAdRmG84BRopz,70,Qiskit 2.7,False,True,0
+Qiskit/qiskit,PVT_kwDOAdRmG84Am9_X,38,Transpiler,True,True,43
+steveiliop56/tinyauth,PVT_kwHOBlLSA84AxER9,2,Tinyauth,False,True,33
+telepresenceio/telepresence,PVT_kwDOAljUZ84Am-p2,1,Tel Tracker,False,True,8
+AgentDeskAI/browser-tools-mcp,PVT_kwDOC5c0vc4A0PaX,1,BrowserTools Development,False,True,22
+meshtastic/firmware,PVT_kwDOA6xaqs4AV-AV,20,Meshtastic 3.0 Goals and Ideas,False,True,36
+apache/hertzbeat,PVT_kwDNuP_OAIBNcw,348,Apache HertzBeat,False,True,880
+universal-ctags/ctags,PVT_kwDOAJK9fs4Am62V,2,Revise parsers,False,True,7
+Mailu/Mailu,PVT_kwDOAV8etM4Am9b8,2,Mailu 2.1 release,True,True,10
+wix/react-native-ui-lib,PVT_kwDOAAp5r84Am0A3,9,RNUILIB,False,True,12
+pyenv-win/pyenv-win,PVT_kwDOAsuQ1s4AAWtf,3,pyenv-win,True,True,6
+boa-dev/boa,PVT_kwDOA-R-5s4AFLkd,2,Boa pre-v1,False,True,81
+boa-dev/boa,PVT_kwDOA-R-5s4BEDxk,6,ECMAScript proposals,False,True,13
+boa-dev/boa,PVT_kwDOA-R-5s4A6lVm,5,Temporal Implementation,False,True,147
+aniyomiorg/aniyomi,PVT_kwDOCCdkr84Aa-Gw,5,Video downloader,False,True,10
+refly-ai/refly,PVT_kwDOB-fcns4A353Z,2,V0.6.0,False,True,6
+uswds/uswds,PVT_kwDOAh5Whs4AAyUx,8,USWDS Core Project Data,False,True,905
+aws-amplify/amplify-js,PVT_kwDOAnLMAM4AtLGq,136,Portcullis,True,True,0
+rapidsai/cudf,PVT_kwDOAp2shc4AiNzl,128,cuDF Python,False,True,900
+rapidsai/cudf,PVT_kwDOAp2shc4AKVDc,74,libcudf,False,True,217
+huggingface/accelerate,PVT_kwDOAYh3p84Alcdg,55,Accelerate 1.0.0 Roadmap,False,True,18
+owasp-modsecurity/ModSecurity,PVT_kwDOCWI4Qs4AnGy4,1,v3.0.11,False,True,7
+buefy/buefy,PVT_kwDOAZjvHM4A56By,6,Buefy Project Board,False,True,59
+buefy/buefy,PVT_kwDOAZjvHM4ATGq6,3,Buefy V2 Maintenance Board,True,True,56
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5A_3,48,3D models,False,True,3
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_Md,31,AstroCalc,False,True,52
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_jY,34,Atmosphere,False,True,26
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_Q_,32,Catalogs,False,True,61
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_be,33,GUI,False,True,68
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5ABp,43,Landscapes,False,True,28
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5A7b,46,Media,False,True,2
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5BDS,50,Navigation,False,True,7
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5A8j,47,Observing Lists,False,True,11
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5BF8,51,Plugin,False,True,56
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_zq,40,Plugin: Exoplanets,False,True,2
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_oJ,36,Plugin: Oculars,False,True,24
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_rX,37,Plugin: Satellites,False,True,19
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_xP,39,Plugin: Solar System Editor,False,True,11
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_uT,38,Plugin: Telescope Control,False,True,52
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5AIl,44,Projections,False,True,16
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_mI,35,Scripting,False,True,21
+Stellarium/stellarium,PVT_kwDOAG-yYM4A44oe,27,Skycultures 2.0,False,True,109
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_1l,41,Solar System,False,True,28
+Stellarium/stellarium,PVT_kwDOAG-yYM4A5BBX,49,Variable stars,False,True,6
+Stellarium/stellarium,PVT_kwDOAG-yYM4A4_7T,42,Visualization,False,True,42
+gruntwork-io/terragrunt,PVT_kwDOAQU3Ds4ATj0W,35,Terragrunt Roadmap,False,True,146
+pocoproject/poco,PVT_kwDOAAMUvs4Aa9gk,1,1.14,True,True,191
+unopim/unopim,PVT_kwDOCoSjTM4BSMd2,2,UnoPim 2.0.0,False,True,16
+vimwiki/vimwiki,PVT_kwDOACq8_84ANY66,2,Bug Triage,False,True,12
+vimwiki/vimwiki,PVT_kwDOACq8_84ANY6d,1,Feature Triage,False,True,14
+mautic/mautic,PVT_kwDOAFA5zc4APoqt,13,Open Source Fridays,False,True,140
+mautic/mautic,PVT_kwDOAFA5zc4A7snL,29,Quality Sprint 2025,False,True,75
+runtipi/runtipi,PVT_kwDOCM3iyc4AWvEz,4,Runtipi,False,True,155
+PaddlePaddle/PaddleSeg,PVT_kwDOAWcZzs4AQNww,8,PaddleSeg/release/2.9,False,True,8
+dreammis/social-auto-upload,PVT_kwHOAL9hCM4AjgGi,1,SAU roadmap,False,True,13
+unit8co/darts,PVT_kwDOAlyMoc4Am-qq,12,darts,False,True,179
+conan-io/conan,PVT_kwDOAOgehc4Am8Hb,24,Graph & requirements model,True,True,9
+getsentry/self-hosted,PVT_kwDOABVQ184AR8zT,109,Self-hosted Sentry,False,True,172
+lepoco/wpfui,PVT_kwDOBTXNfs4ABB1I,1,WPF UI Board,False,True,95
+gitbutlerapp/gitbutler,PVT_kwDOB1vdDc4BHN-l,5,CLI Tasks,False,True,61
+microsoft/fluentui,PVT_kwDOAF3p4s4AKke1,652,@fluentui Web Components,False,True,253
+microsoft/fluentui,PVT_kwDOAF3p4s4AOZzQ,792,@fluentui/react-charting,False,True,108
+microsoft/fluentui,PVT_kwDOAF3p4s3kxw,182,@fluentui/react-components v9.0.0,False,True,431
+microsoft/fluentui,PVT_kwDOAF3p4s4AAdqs,200,Fluent UI - Shield Priors,False,True,443
+microsoft/fluentui,PVT_kwDOAF3p4s4AOJl-,786,Fluent UI React Component Roadmap,False,True,71
+microsoft/fluentui,PVT_kwDOAF3p4s4ABLP0,295,FluentUI v8 website,False,True,25
+cube-js/cube,PVT_kwDOAyCWqc4AH_0w,4,Roadmap FY2023 Q4,True,True,48
+fosrl/pangolin,PVT_kwDOCujv2c4AxPkk,1,Pangolin Development,True,True,48
+fosrl/pangolin,PVT_kwDOCujv2c4BRMNb,3,Pangolin Roadmap,False,True,19
+ratatui/ratatui,PVT_kwDOB3ZpwM4AZhVF,3,Not planned / TODO,False,True,26
+ratatui/ratatui,PVT_kwDOB3ZpwM4AL_V3,1,PR Triage,True,True,42
+soxoj/maigret,PVT_kwHOAdk6zM4As82z,3,Long live Maigret!,False,True,3
+LunarVim/LunarVim,PVT_kwDOBS3_J84AGVit,1,LunarVim,False,True,59
+nvim-telescope/telescope.nvim,PVT_kwDOBG-NTc4ATGxf,1,0.2,False,True,5
+volcengine/OpenViking,PVT_kwDOBAPpX84BPGKp,4,OpenViking project,False,True,882
+tensorflow/tfjs,PVT_kwDOAO7ujs4Am8QN,28,Product Excellence Fixit,False,True,8
+decaporg/decap-cms,PVT_kwDOAkJ-m84AUfC2,2,Priority Issues,False,True,22
+kivy/kivy,PVT_kwDOABNR6M4AObQx,7,Kivy 2.3.0,True,True,8
+kivy/kivy,PVT_kwDOABNR6M4AbEyi,9,Kivy 3.0.0,False,True,45
+pyscript/pyscript,PVT_kwDOBf5SQc4ADZL9,4,PyScript OSS,False,True,70
+sanic-org/sanic,PVT_kwDOAYDD-M4AFaU5,1,Core Development,False,True,11
+lss233/kirara-ai,PVT_kwHOAIkYaM4AMB3c,1,1.7,True,True,4
+lss233/kirara-ai,PVT_kwHOAIkYaM4AQVhZ,3,v3,False,True,11
+lss233/kirara-ai,PVT_kwHOAIkYaM4AQVj3,4,模型接入,False,True,11
+rizinorg/cutter,PVT_kwDOBEwdA84ALgZb,4,User Experience,False,True,153
+gradle/gradle,PVT_kwDOAAHk_M4AChxi,31,Gradle Build Tool roadmap,False,True,24
+gradle/gradle,PVT_kwDOAAHk_M4Ac9Df,92,Gradle Community,False,True,18
+gradle/gradle,PVT_kwDOAAHk_M4ACh2v,32,Stable Configuration Cache,True,True,110
+eosphoros-ai/DB-GPT,PVT_kwDOCGEV0M4AYuD8,2,v0.4.3,False,True,4
+openobserve/openobserve,PVT_kwDOBbbTCM4ANEax,7,OpenObserve,True,True,144
+wasp-lang/wasp,PVT_kwDOA0jLbc4ATU7Q,3,Tasks,True,True,4
+QuantConnect/Lean,PVT_kwDOADu0bs4AMRKw,8,QuantConnect / LEAN,False,True,112
+ppy/osu,PVT_kwDOAA8xs84AUMXf,12,Difficulty calculation changes,False,True,241
+ppy/osu,PVT_kwDOAA8xs84Abmip,18,osu! client development focus,True,True,150
+ppy/osu,PVT_kwDOAA8xs82_8A,7,osu! development roadmap,True,True,193
+ppy/osu,PVT_kwDOAA8xs84AUU8l,13,Path to osu!(lazer) ranked play,True,True,139
+onyx-dot-app/onyx,PVT_kwDOB91WEM4A-fP9,2,Onyx Roadmap,False,True,28
+ionic-team/ionicons,PVT_kwDOADBkr84A5lCH,22,Summer Internship - Madison College - 2025,True,True,21
+lichess-org/lila,PVT_kwDOAPukdc4ADo6g,1,External engines (alpha 1),True,True,14
+lichess-org/lila,PVT_kwDOAPukdc4AbOn5,9,Maintenance,False,True,2
+lichess-org/lila,PVT_kwDOAPukdc4AyoN3,19,offline bots,False,True,10
+lichess-org/lila,PVT_kwDOAPukdc4AbSFa,11,Pairing UI for FIDE World Corporate Championship,False,True,6
+elizaOS/eliza,PVT_kwDOCxnNzs4ArIcU,1,Eliza,False,True,121
+ruffle-rs/ruffle,PVT_kwDOAvuEys4AJ6OK,1,AVM2 interpreter,False,True,5
+ruffle-rs/ruffle,PVT_kwDOAvuEys4Aa-65,7,Merged PRs since last progress update,False,True,694
+hummingbot/hummingbot,PVT_kwDOBUFLXM4AESC8,7,Bounties Board,False,True,189
+hummingbot/hummingbot,PVT_kwDOBUFLXM4AiDuc,18,Issues - v2 strategies,False,True,17
+hummingbot/hummingbot,PVT_kwDOBUFLXM4AAX5H,1,Pull Request Board,False,True,36
+arc53/DocsGPT,PVT_kwDOBioPb84ALlEM,2,DocsGPT Roadmap,False,True,179
+dotnet/runtime,PVT_kwDOAIt-yc4Ai1FY,416,.NET Core CodeGen,False,True,82
+dotnet/runtime,PVT_kwDOAIt-yc4AC0xs,135,AppModel,False,True,1472
+dotnet/runtime,PVT_kwDOAIt-yc4AEoUa,157,AVX-512,True,True,7
+dotnet/runtime,PVT_kwDOAIt-yc4Am6wY,455,Infrastructure Backlog,False,True,101
+dotnet/runtime,PVT_kwDOAIt-yc4Am6wR,453,Networking ramp-up,False,True,8
+dotnet/runtime,PVT_kwDOAIt-yc4ADNmJ,137,Runtime Infra,False,True,981
+redwoodjs/graphql,PVT_kwDOAq9qTM4AfIhD,15,Bighorn Development Archive,True,True,25
+CopyTranslator/CopyTranslator,PVT_kwDOAsgH_c4BPW3i,1,V12,False,True,21
+verdaccio/verdaccio,PVT_kwDOARoY0s4Am82W,5,Verdaccio Stable,False,True,5
+redis/node-redis,PVT_kwDOABdYRs4ASc62,28,Node-Redis V6 Roadmap,False,True,4
+immersive-translate/immersive-translate,PVT_kwDOBwOmYM4AK11p,1,Immersive Translate 2023-06,True,True,29
+immersive-translate/immersive-translate,PVT_kwDOBwOmYM4AW4Pb,3,计划中,False,True,0
+MarlinFirmware/Marlin,PVT_kwDOAJ74vc4AiqFo,3,Code Refactoring,False,True,2
+MarlinFirmware/Marlin,PVT_kwDOAJ74vc4AhgWz,2,Improved Motion,False,True,6
+TransformerOptimus/SuperAGI,PVT_kwDOB_Tx_s4ASNLJ,5,SuperAGI Roadmap - Main,False,True,98
+ffmpegwasm/ffmpeg.wasm,PVT_kwDOA2W8Cc4AF0Vi,2,ffmpeg.wasm,True,True,1
+sqlc-dev/sqlc,PVT_kwDOCCZ3JM4AiyR6,1,sqlc Roadmap,False,True,6
+microsoft/react-native-windows,PVT_kwDOAF3p4s4Am4ri,1339,Community Module Requests,False,True,31
+microsoft/react-native-windows,PVT_kwDOAF3p4s4Am4sI,1358,HTTP support completeness,False,True,6
+Kilo-Org/kilocode,PVT_kwDODAeRJ84BOnDL,25,New VS Code Extension,False,True,265
+labring/sealos,PVT_kwDOBhfbJs4BGc0e,14,costcenter-sub,False,True,3
+labring/sealos,PVT_kwDOBhfbJs4BGc2A,16,Devbox-v2.5,False,True,10
+labring/sealos,PVT_kwDOBhfbJs4BGcz3,13,kb0.9,False,True,4
+labring/sealos,PVT_kwDOBhfbJs4AHF6x,4,sealos roadmap,True,True,129
+danny-avila/LibreChat,PVT_kwHOBpTBDc4ARdQ2,2,LibreChat,False,True,119
+directus/directus,PVT_kwDOAPOmzs4AcCRS,26,Project Forum,True,True,62
+nextcloud/server,PVT_kwDOASUjHs4Al4II,109,Files to vue,False,True,260
+pnpm/pnpm,PVT_kwDOAUVUD84AOs_c,2,Status,False,True,67
+SeleniumHQ/selenium,PVT_kwDOAA8Dd84AId37,2,Build Improvements,False,True,34
+SeleniumHQ/selenium,PVT_kwDOAA8Dd84ANTsc,6,W3C WebDriver BiDi,True,True,13
+aquasecurity/trivy,PVT_kwDOAMMQ2M4AJdh_,25,Trivy Roadmap,False,True,258
+anoma/anoma,PVT_kwDOBTOAss4AAcT2,1,Namada-Old,True,True,640
+anoma/anoma,PVT_kwDOBTOAss4AXfzf,19,Skunks Issue Overview,False,True,171
+anoma/anoma,PVT_kwDOBTOAss4AXf0F,20,What's Cooking on Anoma,False,True,78
+khoj-ai/khoj,PVT_kwDOB_1kps4Af_zS,4,Khoj Features for Contributors,False,True,10
+block/goose,PVT_kwDOCwind84Ay1xk,13,Goose UI Improvements,False,True,39
+block/goose,PVT_kwDOCwind84BD2PF,23,Hacktoberfest 2025,False,True,65
+keycloak/keycloak,PVT_kwDOAEsYes4AAj3x,9,Storage,False,True,590
+drizzle-team/drizzle-orm,PVT_kwDOBncYgM4AMovA,1,Public Roadmap,False,True,173
+IceWhaleTech/CasaOS,PVT_kwDOBXGuM84AD2RC,5,CasaOS Alpha Testing,False,True,108
+IceWhaleTech/CasaOS,PVT_kwDOBXGuM84AB_Cw,1,CasaOS Issues,False,True,195
+wailsapp/wails,PVT_kwDOAl57x84A3EQg,14,v2 Backlog,False,True,33
+wailsapp/wails,PVT_kwDOAl57x84A2TOm,13,v3 Backlog,False,True,203
+firecracker-microvm/firecracker,PVT_kwDOAqasQs4AZh01,42,Firecracker Roadmap,False,True,20
+TabbyML/tabby,PVT_kwDOB3zGvs4AWsbi,4,Good First Issues,True,True,3
+restic/restic,PVT_kwDOAJm1qM4AbtWW,2,Restic 0.17 roadmap,True,True,42
+restic/restic,PVT_kwDOAJm1qM4AlU3Y,3,Restic 0.18/0.19 roadmap,False,True,32
+k3s-io/k3s,PVT_kwDOAvCPLc4AIbx1,5,K3s Backlog,False,True,227
+k3s-io/k3s,PVT_kwDOAvCPLc4AK21o,6,K3s Development,False,True,228
+open-mmlab/mmdetection,PVT_kwDOAJxUSc4ABDKM,6,MMCV,False,True,10
+open-mmlab/mmdetection,PVT_kwDOAJxUSc4AA_nP,5,Model Deployment,False,True,10
+yewstack/yew,PVT_kwDOAu10Ss4ADqDN,2,SSR,False,True,23
+frappe/erpnext,PVT_kwDOAAzFbs4AH3ld,43,Accounts Module Tasks,True,True,1
+frappe/erpnext,PVT_kwDOAAzFbs4BLo0K,151,Documentation,False,True,21
+frappe/erpnext,PVT_kwDOAAzFbs4A-NOk,129,ERPNext Backlog,False,True,59
+frappe/erpnext,PVT_kwDOAAzFbs4As3ac,102,ERPNext Roadmap (Version 16.0.0),True,True,115
+frappe/erpnext,PVT_kwDOAAzFbs4BMOJK,157,ERPNext Roadmap - April 2026,False,True,36
+frappe/erpnext,PVT_kwDOAAzFbs4BNIRp,166,ERPNext Roadmap - April 2026,False,True,2
+frappe/erpnext,PVT_kwDOAAzFbs4BNBNS,165,ERPNext Roadmap Version 16.2.0,False,True,3
+frappe/erpnext,PVT_kwDOAAzFbs4BMPRK,158,ERPNext Version 17,False,True,6
+frappe/erpnext,PVT_kwDOAAzFbs4AHJIn,41,Stock / Manufacturing ToDo,True,True,6
+PostHog/posthog,PVT_kwDOA5iQ-M4AeSFv,100,All issues labelled feature/(recordings|replay|toolbar|apm|notebooks),False,True,278
+PostHog/posthog,PVT_kwDOA5iQ-M4AA9fj,39,Onboarding,True,True,6
+PostHog/posthog,PVT_kwDOA5iQ-M4A6Jp8,123,PostHog AI,False,True,90
+PostHog/posthog,PVT_kwDOA5iQ-M4BPK1H,172,Product Tours,False,True,31
+PostHog/posthog,PVT_kwDOA5iQ-M4BPfnH,175,Team Client Libraries,False,True,14
+PostHog/posthog,PVT_kwDOA5iQ-M4A1plp,119,Workflows,False,True,60
+linera-io/linera-protocol,PVT_kwDOBmiIAs4ARjVk,8,Blockchain explorer,False,True,6
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AaycU,11,Browser Wallet,False,True,22
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AKBWg,2,Core Protocol,False,True,495
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AK0ze,7,Developer Documentation,False,True,62
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AK0hU,6,Developer Infrastructure,False,True,131
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AKBXh,4,Network and service infrastructure,False,True,36
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AKBUY,1,Storage,False,True,118
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AKBXL,3,VM Integrations,False,True,156
+linera-io/linera-protocol,PVT_kwDOBmiIAs4AKEkm,5,Web3 SDK,False,True,258
+Dokploy/dokploy,PVT_kwDOCVnUYc4AhKM_,3,@Dokploy Roadmap,False,True,48
+continuedev/continue,PVT_kwDOB588ds4ATkIF,2,Continue Contribution Ideas,False,True,27
+continuedev/continue,PVT_kwDOB588ds4A3yjX,4,Issues and PRs,False,True,6095
+tinygrad/tinygrad,PVT_kwDOB-y_dM4BKpny,11,Llama 405B MLPerf Training,False,True,10
+tinygrad/tinygrad,PVT_kwDOB-y_dM4AcrYr,5,tinygrad 1.0,True,True,35
+tinygrad/tinygrad,PVT_kwDOB-y_dM4Anrph,10,Why is tinygrad slow?,True,True,19
+hasura/graphql-engine,PVT_kwDOANUdgs4AZgrT,201,V3,False,True,57
+numpy/numpy,PVT_kwDOAARmFM4Amz2A,12,f2py core,False,True,6
+numpy/numpy,PVT_kwDOAARmFM4Amz1_,11,f2py usage,False,True,10
+numpy/numpy,PVT_kwDOAARmFM4AHXrM,7,Move build to Meson,True,True,22
+numpy/numpy,PVT_kwDOAARmFM4AKgh9,9,NumPy 2.0 Roadmap,True,True,33
+conductor-oss/conductor,PVT_kwDOCSKJrc4AoXwU,3,Conductor Java Client/SDK v4,False,True,9
+conductor-oss/conductor,PVT_kwDOCSKJrc4AZRgE,1,Conductor Roadmap,True,True,7
+conductor-oss/conductor,PVT_kwDOCSKJrc4A9DZ_,4,Conductor roadmap & releases,False,True,32
+docsifyjs/docsify,PVT_kwDOAmRh8s4AQ_Kt,1,HELP WANTED LIST,False,True,3
+tqdm/tqdm,PVT_kwDOAMJErc4Am7vu,1,Casper,False,True,19
+songquanpeng/one-api,PVT_kwHOAmJSYs4APP2T,9,One API,False,True,60
+OAI/OpenAPI-Specification,PVT_kwDOAPlhzs4AdLPA,4,Automation & Infrastructure,False,True,66
+OAI/OpenAPI-Specification,PVT_kwDOAPlhzs4AdLSX,5,Contributor Guidance,False,True,40
+sequelize/sequelize,PVT_kwDOADbOas4ABTgU,1,Roadmap,False,True,80
+filamentphp/filament,PVT_kwDOA9dvqc4ABvye,2,Roadmap,False,True,97
+openssl/openssl,PVT_kwDOADIJIs4Ajb6s,20,Development Board,False,True,1995
+nginx/nginx,PVT_kwDOABWMj84BO9ap,34,NGINX OSS Community,False,True,15
+apolloconfig/apollo,PVT_kwDOBPn2ys4AnDzE,2,Apollo,False,True,35
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4ApXkY,31,BIM development,False,True,749
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AffR2,21,"CAM ""Big Board""",False,True,206
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4BAFE4,35,CAM:  Tool Improvement Epic,True,True,7
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4BCN_0,38,CAM: Improvements to Adaptive,True,True,15
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AP4pq,12,CI,True,True,0
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AN09n,1,Customization and Preference Cleanup,False,True,25
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AT_QH,14,DXF Import / Export,False,True,116
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AZFuB,19,FEM Roadmap,False,True,245
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AdVNY,20,FreeCAD Day Complaint Session,False,True,118
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4ApMQ9,30,Improve User Experience VarSets,False,True,45
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AO4fu,7,Integrated Assembly Workbench,False,True,33
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AUgSB,17,Materials System Overhaul,True,True,19
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4Amv2m,28,Mechanical Advisory Group,False,True,250
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4BHq8M,40,Merge Queue,False,True,713
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4Azvz1,32,OCCT Liaison,False,True,188
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AOg_K,4,Release Dashboard,True,True,229
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4Aghqh,23,Support ISO GPS / GD&T (Geometric Dimensioning and Tolerancing),False,True,1
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AT_VY,15,Toolbar stability and modernization,False,True,12
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AOIHK,2,Toponaming Integration,False,True,244
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4Aghq5,24,UI / UX Improvements,False,True,466
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AhFjb,25,Unified Measurement Facility issues,False,True,46
+FreeCAD/FreeCAD,PVT_kwDOACMwvc4AUXpf,16,Workbench Selector Cleanup,False,True,9
+python-telegram-bot/python-telegram-bot,PVT_kwDOAPbcvc4AmDVZ,4,Breaking changes for PTB,False,True,1
+python-telegram-bot/python-telegram-bot,PVT_kwDOAPbcvc4Am8X9,5,Python Versions,False,True,7
+python-telegram-bot/python-telegram-bot,PVT_kwDOAPbcvc4AmDU1,3,Python Versions for PTB,False,True,28
+the1812/Bilibili-Evolved,PVT_kwHOAZRr2M4ANupG,1,Bilibili Evolved,False,True,118
+t3-oss/create-t3-app,PVT_kwDOBnQFV84AQs7y,5,create-t3-app upgrade project,False,True,7
+heroui-inc/heroui,PVT_kwDOBSK0t84ADXHi,2,Roadmap,True,True,5
+emilk/egui,PVT_kwHOABGHLc4Ar1KN,2,egui,False,True,73
+voideditor/void,PVT_kwDOCsx03M4AoTQf,2,🚙 Void Roadmap,False,True,43
+getredash/redash,PVT_kwDOAKP7nM4Am7D3,2,2024 roadmap?,False,True,14
+taichi-dev/taichi,PVT_kwDOAfz0i84Am-N_,10,AOT,False,True,5
+taichi-dev/taichi,PVT_kwDOAfz0i84Am-OA,11,CI/CD & Build & Tests,False,True,12
+taichi-dev/taichi,PVT_kwDOAfz0i84Am-N9,9,Docs & Examples & Tutorials,False,True,10
+taichi-dev/taichi,PVT_kwDOAfz0i84Am-OD,12,GGUI,False,True,5
+taichi-dev/taichi,PVT_kwDOAfz0i84Am-N8,8,Lang Features & Python,False,True,7
+taichi-dev/taichi,PVT_kwDOAfz0i84ABPnw,1,Taichi Lang,False,True,1213
+fyne-io/fyne,PVT_kwDOAiYEH84AqI7U,1,Migrate cmd/fyne to tools repository,False,True,7
+chatwoot/chatwoot,PVT_kwDOAWVPW80PBA,10,TODOs - Sojan,False,True,8
+NvChad/NvChad,PVT_kwDOBU2zpM4AIPwS,8,v2.0,True,True,8
+hiddify/hiddify-app,PVT_kwDOB5GWV84APxdN,5,Multiplatform,False,True,419
+Budibase/budibase,PVT_kwDOAq7LP84A_IVW,15,Product roadmap,False,True,99
+KurtBestor/Hitomi-Downloader,PVT_kwHOAOFX-M4APaIO,1,To-Do List,False,True,5
+AstrBotDevs/AstrBot,PVT_kwDOC8vli84A8l3D,4,Astrbot RFC,False,True,1
+AstrBotDevs/AstrBot,PVT_kwDOC8vli84A8RMK,1,AstrBot Roadmap,False,True,14
+microsoft/semantic-kernel,PVT_kwDOAF3p4s4AQ59s,852,Apps & Services Semantic Kernel,True,True,676
+microsoft/semantic-kernel,PVT_kwDOAF3p4s4ARdDa,868,Java Semantic Kernel,True,True,149
+microsoft/semantic-kernel,PVT_kwDOAF3p4s4ARWki,866,Semantic Kernel,False,True,327
+langchain-ai/langgraph,PVT_kwDOB43M6c4Ae6QM,8,Cookbook Roadmap,True,True,13
+langchain-ai/langgraph,PVT_kwDOB43M6c4A6_Mx,19,LangGraph v1 sprint,True,True,49
+better-auth/better-auth,PVT_kwDOCcPQNc4Apqmh,2,v1.0 (stable version),True,True,28
+community-scripts/ProxmoxVE,PVT_kwDOCyXm0M4Asth_,9,🚀 Script Pipeline Overview,False,True,229
+element-plus/element-plus,PVT_kwDOBBaAIc4AArS2,2,Element Plus Documentation,False,True,2
+element-plus/element-plus,PVT_kwDOBBaAIc4AAo_7,1,Roadmap,False,True,11
+eslint/eslint,PVT_kwDOAFvahM4ATD4H,4,v9.0.0,False,True,43
+quasarframework/quasar,PVT_kwDOAV_vM84AAgPU,2,Quasar v3,False,True,16
+ReVanced/revanced-manager,PVT_kwDOBg5CU84AI31f,12,Development of ReVanced,False,True,257
+ReVanced/revanced-manager,PVT_kwDOBg5CU84ALYJT,16,ReVanced Manager (Compose Rewrite),True,True,12
+invoke-ai/InvokeAI,PVT_kwDOBsrO084AS4Rt,7,Invoke - Community Roadmap,False,True,85
+invoke-ai/InvokeAI,PVT_kwDOBsrO084AWYK-,11,Prompt Builder,True,True,9
+recharts/recharts,PVT_kwDOANDm284AJ0It,2,Recharts 3.0,False,True,77
+discordjs/discord.js,PVT_kwDOAZQ-Rc0Xjg,2,discord.js,False,True,57
+Molunerfinn/PicGo,PVT_kwHOAMCWHs4BJr2E,3,v2.4.x,False,True,15
+squidfunk/mkdocs-material,PVT_kwHOAA45PM4A4QRf,4,Backlog,True,True,32
+keepassxreboot/keepassxc,PVT_kwDOAVfan84ABC8w,3,KeePassXC 2.8.0,False,True,58
+keepassxreboot/keepassxc,PVT_kwDOAVfan84AopFl,4,WIP Tracker,False,True,94
+huggingface/smolagents,PVT_kwDOAYh3p84Aw9JP,62,Smolagents Roadmap,False,True,11
+rollup/rollup,PVT_kwDOAL-Sa84AEbDL,1,Rollup v4.0,True,True,17
+sipeed/picoclaw,PVT_kwDOAp_qwM4BPUZ0,2,picoclaw,False,True,13
+eyaltoledano/claude-task-master,PVT_kwHOADA37s4A1_WM,6,Taskmaster Core,False,True,80
+mastodon/mastodon,PVT_kwDOAX0mWM4A6sQu,7,Bugs triage,False,True,234
+mastodon/mastodon,PVT_kwDOAX0mWM4AUS82,1,Redux state refactor,False,True,35
+jellyfin/jellyfin,PVT_kwDOArlL784AWUk-,44,Jellyfin - Triage Board,False,True,673
+jellyfin/jellyfin,PVT_kwDOArlL784AfWI-,55,Jellyfin 10.10,True,True,234
+jellyfin/jellyfin,PVT_kwDOArlL784BQKEq,73,Jellyfin 12.0,False,True,7
+run-llama/llama_index,PVT_kwDOB8qsMs4AmLVf,8,Framework,False,True,301
+ggml-org/whisper.cpp,PVT_kwDOCACxU84A18DR,4,whisper.cpp : roadmap,False,True,9
+x64dbg/x64dbg,PVT_kwDOAHkdUM4AlDX9,1,Rambling,False,True,5
+bevyengine/bevy,PVT_kwDOA5RA9s4AAqg6,4,@cart's attention,False,True,27
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_F9,28,Animation,False,True,33
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_J1,34,Assets,False,True,71
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_Jd,33,Audio,False,True,19
+bevyengine/bevy,PVT_kwDOA5RA9s4AIfIO,11,Audio (Old),True,True,186
+bevyengine/bevy,PVT_kwDOA5RA9s4ABa4y,6,Controversial (approved by maintainers and waiting for project lead) ,True,True,1
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_FC,27,ECS,False,True,152
+bevyengine/bevy,PVT_kwDOA5RA9s4AW5VI,12,Editor,True,True,17
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_Gn,29,Input,False,True,16
+bevyengine/bevy,PVT_kwDOA5RA9s4BNpSq,24,Project Area Template (2026 Proposal),True,True,0
+bevyengine/bevy,PVT_kwDOA5RA9s4BNpO2,23,Project Goals,False,True,28
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_HF,31,Reflection,False,True,44
+bevyengine/bevy,PVT_kwDOA5RA9s4ABY9s,5,Reflection (Old),True,True,296
+bevyengine/bevy,PVT_kwDOA5RA9s4AaeEG,15,Relations,True,True,16
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_Bo,26,Rendering,False,True,278
+bevyengine/bevy,PVT_kwDOA5RA9s4AAbxn,3,Rendering (Old),True,True,1577
+bevyengine/bevy,PVT_kwDOA5RA9s4ABbGS,7,Scheduling,True,True,25
+bevyengine/bevy,PVT_kwDOA5RA9s4BO_Ie,32,UI,False,True,98
+KRTirtho/spotube,PVT_kwHOA7E0G84ALZkg,10,Spotube Board,False,True,435
+RocketChat/Rocket.Chat,PVT_kwDOAL7edM4BE3Qp,215,[GSoC] Realtime Composer & AI Composer projects continuation,False,True,2
+RocketChat/Rocket.Chat,PVT_kwDOAL7edM4AdeA_,72,Community Task Force,False,True,116
+RocketChat/Rocket.Chat,PVT_kwDOAL7edM4ANgEK,54,Fibers Removal,True,True,189
+RocketChat/Rocket.Chat,PVT_kwDOAL7edM4BQCG_,245,rest api conversion to new endpoints,False,True,20
+apache/airflow,PVT_kwDNuP_OAOb-5A,499,AIP 72 (addendum): Golang Task SDK,False,True,18
+apache/airflow,PVT_kwDNuP_OAJs2ZQ,400,AIP-38: Modern Web Application,True,True,156
+apache/airflow,PVT_kwDNuP_OACVPIg,169,AIP-44 - Internal API,True,True,115
+apache/airflow,PVT_kwDNuP_OAFqFXg,298,AIP-49m2 - OpenTelemetry Traces,False,True,8
+apache/airflow,PVT_kwDNuP_OACMROw,162,AIP-51 Removing Executor Coupling from Core Airflow,True,True,13
+apache/airflow,PVT_kwDNuP_OACttzg,207,AIP-52 - Automatic setup and teardown tasks,True,True,62
+apache/airflow,PVT_kwDNuP_OADENww,229,AIP-53 OpenLineage in Airflow,True,True,8
+apache/airflow,PVT_kwDNuP_OAEhnyg,276,AIP-56 Extensible user management,True,True,25
+apache/airflow,PVT_kwDNuP_OAKGCyA,409,AIP-65: Improve DAG history in UI (backend changes),True,True,6
+apache/airflow,PVT_kwDNuP_OAKFDCA,406,AIP-66: DAG Bundles & Parsing,False,True,131
+apache/airflow,PVT_kwDNuP_OAKEI_g,405,AIP-72 - Task Execution Interface and SDK,True,True,298
+apache/airflow,PVT_kwDNuP_OAKGfmg,412,AIP-74 Introducing Data Assets,True,True,16
+apache/airflow,PVT_kwDNuP_OAKGf3Q,413,AIP-75 New Asset-Centric Syntax,True,True,9
+apache/airflow,PVT_kwDNuP_OAKF99w,408,AIP-78 backfills in scheduler,True,True,51
+apache/airflow,PVT_kwDNuP_OALRtnA,438,AIP-79: Remove Flask AppBuilder as Core dependency,True,True,15
+apache/airflow,PVT_kwDNuP_OAKOImw,415,AIP-81: Enhanced Security in CLI via Integration of API,False,True,57
+apache/airflow,PVT_kwDNuP_OAKO9-g,416,AIP-82 Event Driven Scheduling,True,True,8
+apache/airflow,PVT_kwDNuP_OAMPwnA,452,AIP-83 amendment,False,True,29
+apache/airflow,PVT_kwDNuP_OAKGIpQ,410,AIP-83 Remove execution date,True,True,4
+apache/airflow,PVT_kwDNuP_OAKH7qQ,414,AIP-84 MODERN REST API,True,True,160
+apache/airflow,PVT_kwDNuP_OALEWYw,431,AIP-86: Deadline Alerts,False,True,23
+apache/airflow,PVT_kwDNuP_OAO4tOA,508,AIP-90 - Human in the loop,False,True,93
+apache/airflow,PVT_kwDNuP_OATgkvQ,570,AIP-94: Decouple Remote Commands from airflow CLI (to airflowctl),False,True,0
+apache/airflow,PVT_kwDNuP_OATgk3A,571,AIP-94: Migration Tooling from Airflow CLI to Airflow CTL (airflowctl),False,True,0
+apache/airflow,PVT_kwDNuP_OAUGByg,586,AIP-99 Common Data Access Pattern + AI,False,True,43
+apache/airflow,PVT_kwDNuP_OAUUdNw,589,Airflow Registry,False,True,32
+apache/airflow,PVT_kwDNuP_OAJy1cA,403,CI / DEV ENV planned work,False,True,83
+apache/airflow,PVT_kwDNuP_OAKnvpg,421,Debugging Improvements - Airflow 3,False,True,15
+apache/airflow,PVT_kwDNuP_OAT4slw,577,Multi-team test plan,False,True,12
+Leaflet/Leaflet,PVT_kwDOACuNms4BE-WA,8,Accessibility,False,True,38
+react-hook-form/react-hook-form,PVT_kwDOAzfDvM4AnBGp,4,React Hook Form,False,True,91
+AykutSarac/jsoncrack.com,PVT_kwHOAtuGM84ANBnF,2,JSON Crack,False,True,11
+files-community/Files,PVT_kwDOA-4IXc4AFxTC,3,Files task board,False,True,578
+CherryHQ/cherry-studio,PVT_kwDOCzFCf84A1VHU,3,Cherry Studio Dev Plan,False,True,7
+CherryHQ/cherry-studio,PVT_kwDOCzFCf84A5t9Q,7,Cherry Studio Roadmap,False,True,24
+ray-project/ray,PVT_kwDOAVGa2s4A6tUI,79,K8s and Ray (go/k8s-ray-oss),False,True,15
+ray-project/ray,PVT_kwDOAVGa2s4BOb6_,91,Ray Data OSS,False,True,986
+ray-project/ray,PVT_kwDOAVGa2s4BNQnu,90,Ray Direct Transport Roadmap,False,True,23
+juspay/hyperswitch,PVT_kwDOAK9woM4AIgp_,4,hyperswitch - Public Roadmap,True,True,927
+logseq/logseq,PVT_kwDOA8cuyc4AKGT6,4,:Logseq/Issue-Tracker,False,True,283
+logseq/logseq,PVT_kwDOA8cuyc4AKa5Q,5,Logseq - Develop Together 💪,False,True,30
+logseq/logseq,PVT_kwDOA8cuyc4ACawm,2,Whiteboards,True,True,26
+apache/dubbo,PVT_kwDNuP_OAHcfWg,337,Dubbo Board,False,True,220
+ccxt/ccxt,PVT_kwDOAebHqc4AD-JS,33,.Features,True,True,5
+ccxt/ccxt,PVT_kwDOAebHqc4ACYPo,28,`precisionMode` migration to `TICK_SIZE`,True,True,121
+ccxt/ccxt,PVT_kwDOAebHqc4BD2a_,65,Bugs,False,True,222
+ccxt/ccxt,PVT_kwDOAebHqc4AD-RS,34,Dex'es & swaps & aggregators,False,True,14
+ccxt/ccxt,PVT_kwDOAebHqc4ABZ00,7,ESM migration,True,True,9
+ccxt/ccxt,PVT_kwDOAebHqc4BD7B-,66,Features,False,True,33
+ccxt/ccxt,PVT_kwDOAebHqc4AEDAc,35,Market Order by Quote amount,True,True,1
+ccxt/ccxt,PVT_kwDOAebHqc4AFuPm,50,Private tests,False,True,8
+ccxt/ccxt,PVT_kwDOAebHqc4ACLlC,25,rate limits,False,True,10
+ccxt/ccxt,PVT_kwDOAebHqc4AEE_F,37,Reorganize MANUAL,False,True,0
+ccxt/ccxt,PVT_kwDOAebHqc4AF1-S,52,String Math,False,True,110
+ccxt/ccxt,PVT_kwDOAebHqc4ABYws,6,transfer(),False,True,3
+ccxt/ccxt,PVT_kwDOAebHqc4AEG4e,38,Unification - margin,False,True,4
+ccxt/ccxt,PVT_kwDOAebHqc4AEJUc,39,Unification > Batch(Bulk) orders,False,True,2
+ccxt/ccxt,PVT_kwDOAebHqc4ABc1S,12,Unification > embedded Stop-Loss & Take-Profit,False,True,2
+ccxt/ccxt,PVT_kwDOAebHqc4ABYuW,5,Unification > from/to (withdraw & deposit),False,True,5
+ccxt/ccxt,PVT_kwDOAebHqc4AEJU-,41,Unification > multicurrency fees,False,True,2
+ccxt/ccxt,PVT_kwDOAebHqc4AHXsa,54,Unification > NetworkCode,False,True,43
+ccxt/ccxt,PVT_kwDOAebHqc4AEbbI,44,Unification > order UPDATE & EDIT & TRADE timestamps,False,True,2
+ccxt/ccxt,PVT_kwDOAebHqc4ABc1T,13,Unification > postOnly,False,True,2
+ccxt/ccxt,PVT_kwDOAebHqc4ABfcu,15,Unification > reduceOnly,False,True,1
+ccxt/ccxt,PVT_kwDOAebHqc4ADYOz,30,Unification > safePosition,False,True,20
+ccxt/ccxt,PVT_kwDOAebHqc4AEJVL,42,Unification > withdraw fees inclusion,False,True,1
+janhq/jan,PVT_kwDOBhnwPM4A0PIv,30,Jan,False,True,1182
+twentyhq/twenty,PVT_kwDOByD1Dc4ARNQh,1,🎯 Roadmap & Sprints,False,True,1027
+BerriAI/litellm,PVT_kwDOBz1f9s4BL_b9,2,"LiteLLM Models, Providers, Endpoints - Q1 2026",True,True,0
+zen-browser/desktop,PVT_kwDOCdkiw84Aqr67,4,Zen Browser - public roadmap,False,True,3741
+zen-browser/desktop,PVT_kwDOCdkiw84AgW3C,2,Zen Objective Features,True,True,27
+thedotmack/claude-mem,PVT_kwHOAApvwM4BGYcR,3,🧠 claude-mem roadmap,False,True,3
+remotion-dev/remotion,PVT_kwDOBRY_Bs4AQW4p,7,Cloud Run,False,True,41
+remotion-dev/remotion,PVT_kwDOBRY_Bs4APD8J,5,Version 4.0,True,True,194
+pingcap/tidb,PVT_kwDOALTl784Am7kJ,58,Feature Request Kanban,False,True,16
+pingcap/tidb,PVT_kwDOALTl784AiW4e,56,Release,False,True,101
+pingcap/tidb,PVT_kwDOALTl784Am7kf,61,Robust test,False,True,10
+facebookresearch/faiss,PVT_kwDOAQKLOs4AnHcu,27,FAISS Release Schedule/Roadmap,False,True,22
+photoprism/photoprism,PVT_kwDOAe7vb84ARTFQ,5,Roadmap 🚀✨,False,True,1095
+gofiber/fiber,PVT_kwDOA5K4_s4AW_lt,3,Ideas/Maintainance,False,True,37
+gofiber/fiber,PVT_kwDOA5K4_s4ACZf2,1,v3,False,True,853
+2noise/ChatTTS,PVT_kwDOCdNR884Ajdgb,1,ChatTTS,False,True,35
+agno-agi/agno,PVT_kwDOBkBD8c4A3UP9,6,Agno Roadmap,True,True,80
+agno-agi/agno,PVT_kwDOBkBD8c4AbnUb,2,Phidata Roadmap,True,True,21
+nushell/nushell,PVT_kwDOAwZgS84AO4w3,4,1.0 Milestone,False,True,17
+mindsdb/mindsdb,PVT_kwDOAdmRoM4Am-BG,79,Community Contributors,False,True,222
+lapce/lapce,PVT_kwDOAppVb84AA7ri,1,Backlog,False,True,36
+pola-rs/polars,PVT_kwDOBP4zUM4ASrsO,1,Backlog,False,True,286
+RSSNext/Folo,PVT_kwDOBbCMJ84AhFn7,1,Follow development,False,True,120
+RSSNext/Folo,PVT_kwDOBbCMJ84Ao4-O,3,Follow Improvement,False,True,17
+RSSNext/Folo,PVT_kwDOBbCMJ84Anj9w,2,Follow's Fun idea,False,True,4
