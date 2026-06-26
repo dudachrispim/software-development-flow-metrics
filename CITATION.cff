@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+
+message: "If you use this replication package, please cite it using the metadata below."
+
+title: "Predictability and Bottlenecks in Open-Source Software Development Workflows: An Analysis Using Agile Metrics"
+
+authors:
+  - family-names: Chrispim Santana
+    given-names: Maria Eduarda
+    affiliation: Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
+    orcid: "https://orcid.org/0009-0000-5104-7464"
+
+  - family-names: Soares de Andrade
+    given-names: Michelle Hanne
+    affiliation: Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
+
+  - family-names: Silva Tavares
+    given-names: Cleiton
+    affiliation: Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
+
+abstract: >
+  This replication package contains the source code, processed datasets,
+  figures, and scripts required to reproduce the experiments presented in
+  the paper "Predictability and Bottlenecks in Open-Source Software
+  Development Workflows: An Analysis Using Agile Metrics".
+
+keywords:
+  - Software Engineering
+  - Agile Metrics
+  - Flow Metrics
+  - Cycle Time
+  - Throughput
+  - Predictability
+  - Bottleneck Analysis
+  - Mining Software Repositories
+  - GitHub
+
+repository-code: https://github.com/dudachrispim/software-development-flow-metrics
+
+license: CC-BY-4.0
+
+version: 1.0.0
+
+date-released: 2026-06-26
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.xxxxxxx
