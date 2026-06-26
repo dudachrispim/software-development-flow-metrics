@@ -1,0 +1,14 @@
+{
+  "stars_35001_50000": {
+    "after_cursor": null,
+    "page": 27,
+    "approved_count": 250,
+    "done": true
+  },
+  "stars_gt_50000": {
+    "after_cursor": null,
+    "page": 4,
+    "approved_count": 19,
+    "done": true
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "stars_10_20": {
+    "after_cursor": null,
+    "page": 21,
+    "approved_count": 474,
+    "done": true
+  },
+  "stars_21_35": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_36_50": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_51_75": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_76_100": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_101_150": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_151_250": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_251_350": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_351_500": {
+    "after_cursor": null,
+    "page": 13,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_501_750": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_751_1000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_1001_1500": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_1501_2000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_2001_3500": {
+    "after_cursor": null,
+    "page": 12,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_3501_5000": {
+    "after_cursor": null,
+    "page": 12,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_5001_7500": {
+    "after_cursor": "Y3Vyc29yOjUw",
+    "page": 2,
+    "approved_count": 49,
+    "done": false
+  },
+  "stars_7501_10000": {
+    "after_cursor": "Y3Vyc29yOjUw",
+    "page": 2,
+    "approved_count": 49,
+    "done": false
+  },
+  "stars_10001_20000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 0,
+    "done": false
+  },
+  "stars_20001_35000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 0,
+    "done": false
+  },
+  "stars_35001_50000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 0,
+    "done": false
+  },
+  "stars_gt_50000": {
+    "after_cursor": null,
+    "page": 1,
+    "approved_count": 0,
+    "done": false
+  }
+}

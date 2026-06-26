@@ -1,0 +1,14 @@
+{
+  "stars_5001_7500": {
+    "after_cursor": null,
+    "page": 53,
+    "approved_count": 500,
+    "done": true
+  },
+  "stars_7501_10000": {
+    "after_cursor": null,
+    "page": 53,
+    "approved_count": 500,
+    "done": true
+  }
+}
