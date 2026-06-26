@@ -134,3 +134,5 @@ If you use this replication package, please cite the associated publication and 
 ## License
 
 This project is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+[![DOI](https://zenodo.org/badge/1281713332.svg)](https://doi.org/10.5281/zenodo.20943924)
